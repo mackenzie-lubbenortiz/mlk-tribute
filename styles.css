@@ -11,7 +11,7 @@ body, html {
 
 .hero-image {
   
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("file:///Users/carlosjortiz-mendoza/Desktop/CODING/portfolio/mlk-tribute/about-tkc-banner.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("about-tkc-banner.jpg");
   height: 50%;
   background-position: center;
   background-repeat: no-repeat;
